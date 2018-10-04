@@ -1,6 +1,4 @@
 # ase_lab
-# implement calculator.py with 2 functions sum and divide and must work with z numbers
-# python does not use interfaces, it has modules
 
 def sum(m, n):
     result = m
