@@ -30,7 +30,6 @@ def subtract(m, n):
     result = m
     if n < 0:
         for i in range(abs(n)):
-            #print("i",i)
             result += 1
     else:
         for i in range(abs(n)):
